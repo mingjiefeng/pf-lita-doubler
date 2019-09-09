@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
-  spec.name          = "lita-doubler"
+  spec.name          = "pf-lita-doubler"
   spec.version       = "0.1.0"
   spec.authors       = ["mingjiefeng"]
   spec.email         = ["mingjiefeng@hotmail.com"]
   spec.description   = "Doubles numbers - simple demo skill"
   spec.summary       = "Doubles numbers - simple demo skill"
-  spec.homepage      = "https://github.com/mingjiefeng/lita-doubler"
+  spec.homepage      = "https://github.com/mingjiefeng/pf-lita-doubler"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
@@ -24,5 +24,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "simplecov"
   spec.add_development_dependency "coveralls"
 
-  
+
 end
